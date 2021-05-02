@@ -1,0 +1,22 @@
+{
+  "name": "mdx-test-data",
+  "version": "1.0.0",
+  "description": "Mdx file published as an npm package, for testing purposes.",
+  "main": "README.mdx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaelhameon/mdx-test-data.git"
+  },
+  "keywords": [
+    "mdx"
+  ],
+  "author": "Gaël Haméon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaelhameon/mdx-test-data/issues"
+  },
+  "homepage": "https://github.com/gaelhameon/mdx-test-data#readme"
+}
